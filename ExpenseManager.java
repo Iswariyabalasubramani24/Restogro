@@ -1,9 +1,6 @@
 package com.splitwise;
 
 import com.splitwise.models.User;
-import com.splitwise.models.expense.Expense;
-import com.splitwise.models.expense.ExpenseMetadata;
-import com.splitwise.models.expense.ExpenseType;
 import com.splitwise.models.split.Split;
 
 import java.util.ArrayList;
